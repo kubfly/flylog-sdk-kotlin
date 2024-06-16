@@ -1,2 +1,2 @@
-# flylog-sdk-kotlin
-FlyLog SDK for Kotlin
+# FlyLog SDK for Kotlin
+Provides Kotlin API for application development with FlyLog framework.
